@@ -1,9 +1,9 @@
 function main () {
     // Only change code below this line
 
-    var myName = "Timur"
+    var myName = "Timur";
 
-    var myString = "My name is " + myName + " and I am well."
+    var myString = "My name is " + myName + " and I am well!";
 
     // Only change code above this line
     return myString;
