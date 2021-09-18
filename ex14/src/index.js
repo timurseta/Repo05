@@ -7,7 +7,7 @@ function main () {
     var myAdverb = "quickly";
 
     var wordBlanks = " ";
-    wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb + ".";
+    wordBlanks = "Happy" + " " + myNoun + " " + "with" + " " + myAdjective + " " + "ears" + " " + myVerb + " " + myAdverb + ".";
 
     // Only change code above this line
     return wordBlanks;
